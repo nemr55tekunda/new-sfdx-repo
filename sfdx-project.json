@@ -1,0 +1,10 @@
+{
+  "packageDirectories": [
+    { "path": "sfdx-source/isvte_falcon", "default": true },
+    { "path": "sfdx-source/unpackaged"},
+    { "path": "sfdx-source/untracked"}
+  ],
+  "namespace": "isvte_falcon",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "41.0"
+}
