@@ -1,0 +1,36 @@
+{
+    "orgName": "Tekunda",
+    "edition": "Developer",
+    "features": [
+        "ContactsToMultipleAccounts",
+        "ServiceCloud",
+        "PersonAccounts",
+        "DefaultWorkflowUser",
+        "Communities",
+        "FieldService:5",
+        "FieldServiceDispatcherUser:3",
+        "FieldServiceMobileUser:3",
+        "FieldServiceSchedulingUser:3"
+    ],
+    "language": "en_US",
+    "settings": {
+        "fieldServiceSettings": {
+            "fieldServiceOrgPref": true,
+            "enableWorkOrders": true
+        },
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": false
+        },
+        "languageSettings": {
+            "enableTranslationWorkbench": true,
+            "enableEndUserLanguages": true
+        },
+        "omniChannelSettings": {
+            "enableOmniChannel": true,
+            "enableOmniSkillsRouting": true
+        }
+    }
+}
